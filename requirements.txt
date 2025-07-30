@@ -1,0 +1,9 @@
+transformers
+torch
+accelerate
+sentencepiece
+psutil
+pandas
+rich
+tqdm
+wandb
